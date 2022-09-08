@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AfroSjack
+- 👀 I’m interested in Clean code, nice woodwork, oldtimer mopeds and good audio equipment
+- 🌱 I’m currently learning WinterCMS
+- 💞️ I’m looking to collaborate on PHP Laravel framework
+- 📫 How to reach me on github
